@@ -1,4 +1,4 @@
-# Hotel-Reservation-System-C-Language
+# Hotel-Reservation-System
 
 This **Hotel Reservation System** is a project designed to simulate the process of reserving, canceling, and managing hotel rooms. It has been developed using **C** programming language and the **Code::Blocks IDE** for the **Computer Programming 1** course.
 
